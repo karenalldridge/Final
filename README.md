@@ -42,3 +42,4 @@ Year effects are minor but statistically significant
 Scaling relationships differ slightly between species in log-space
 
 ## See written anylasis for further claification and explanations 
+Final_Project_Alldridge.pdf
